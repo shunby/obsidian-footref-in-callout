@@ -1,5 +1,7 @@
 # Obsidian Footrefs in Live Preview
 
+An  [Obsidian](https://obsidian.md) plugin to improve the rendering of footnote references in Live Preview.
+
 | before installing | after installing |
 |--------|-------|
 | ![before installing](./images/before.png) | ![after installing](./images/after.png) |

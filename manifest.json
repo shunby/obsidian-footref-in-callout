@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "livepreview-footrefs",
+	"name": "Footrefs in Live Preview",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Better handling of footnote references in live preview",
+	"author": "shunby",
+	"authorUrl": "https://github.com/shunby",
 	"isDesktopOnly": false
 }

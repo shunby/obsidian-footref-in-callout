@@ -6,7 +6,7 @@
 
 ## Features
 
-- Better rendering of footrefs in callouts
+- Better rendering of footnote references in callouts
 
 ## Install
 

@@ -1,7 +1,7 @@
 {
 	"id": "livepreview-footrefs",
-	"name": "Footrefs in Live Preview",
-	"version": "0.1.1",
+	"name": "Footref in Callouts",
+	"version": "0.1.2",
 	"minAppVersion": "0.15.0",
 	"description": "Better handling of footnote references in live preview",
 	"author": "shunby",

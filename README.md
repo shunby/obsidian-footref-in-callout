@@ -1,4 +1,4 @@
-# Obsidian Footrefs in Live Preview
+# Obsidian Footref in Callouts
 
 An  [Obsidian](https://obsidian.md) plugin to improve the rendering of footnote references in Live Preview.
 
